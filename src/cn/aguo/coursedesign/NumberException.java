@@ -2,10 +2,10 @@ package cn.aguo.coursedesign;
 
 public class NumberException extends Exception {
     /*
-     * 18���ƿ�����ʯ�ɹ�
-     * ��Ŀ����ѧ��������ѵ��ϵͳ-�Զ����쳣����
+     * 18级计科三班石成果
+     * 项目：数学计算能力训练系统-自定义异常处理
      * */
-    //һ���Զ����쳣����������Ų��ڷ�Χ���쳣
+    //一个自定义异常，用于抛序号不在范围内异常
     public NumberException() {
         super();
     }
