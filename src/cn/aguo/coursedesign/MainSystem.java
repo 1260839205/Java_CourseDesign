@@ -7,7 +7,7 @@ public class MainSystem {
     * 项目：数学计算能力训练系统
     * */
     private static final String name = "石成果";
-    private static final String id = "1806410322";
+    private static final String id = "1806410***";
     public static void main(String[] args) {
         int number;
         Scanner sc = new Scanner(System.in);
